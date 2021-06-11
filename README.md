@@ -6,6 +6,8 @@ Patrick's Hub
 - Spin Jutsu
 - Change Fighting Style
 - Hide Name
+- Godmode
+- Rejoin
 - No CoolDown Ultimate
 [Other Games]
 local Update = 0.1
